@@ -1,11 +1,8 @@
 {
-  "name": "Medstudy — Your Study Space",
-  "short_name": "Medstudy",
-  "description": "An offline-friendly medical school study companion.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "name": "Little Desk",
+  "short_name": "Little Desk",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#f7f5f0",
-  "theme_color": "#f7f5f0",
-  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "background_color": "#fff8f5",
+  "theme_color": "#fff4f1"
 }
